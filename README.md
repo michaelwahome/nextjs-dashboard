@@ -1,5 +1,5 @@
-## Next.js App Router Course - Starter
+Built following the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This web app can be found at [this link](nextjs-dashboard-omega-lovat.vercel.app).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
